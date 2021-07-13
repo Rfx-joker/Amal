@@ -128,8 +128,8 @@ the user is responsible.
 
 ### The Hard Method
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
+$ git clone https://github.com/Rfx-joker/Amal
+$ cd Amal
 $ npm i
 $ nano Config.env
 // Config.env oluşturun ve düzenleyin.
